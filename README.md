@@ -12,6 +12,14 @@
  <b><i>~ 𝐃𝐨 𝐥𝐞𝐬𝐬, 𝐂𝐫𝐞𝐚𝐭𝐞 𝐦𝐨𝐫𝐞 <</b></i>
 <br>
 
+**Main programming projects I "finished":**
+- **Campfire** (Chatting App) ✅
+- **Flute** (Music Downloader) ✅
+- **Personal Website**... ✅
+- Some **not** very **complex** **videogames** ✅
+  
+***Status: ❌ No new projects allowed! <br>- Don't wanna be burning out like a candle 🕯️***
+
 **Some stuff I use:** 
 
 <img src="http://daikoje.borec.cz/python.png" width="48"/> <img src="http://daikoje.borec.cz/javascript.png" width="48"/> <img src="http://daikoje.borec.cz/kotlin.png" width="48"/> <img src="http://daikoje.borec.cz/html.png" width="48"/>
