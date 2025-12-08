@@ -1,4 +1,4 @@
-# **𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕** ~ ᵛᵉʳʸ ᵐᵘᶜʰ
+# <b>~ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 ☕</b>
 
 [<img align="right" src="https://tenor.com/view/d9luxe-gif-10867550785123888343.gif" width="350" height="250"/>](https://daikogit.github.io/vrana)
 
