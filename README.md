@@ -5,16 +5,17 @@
 <br>
 
 ***The quick brown fox jumps over the lazy dog.***
-- [My Personal Website](https://thebestmotherfucking.website/) - **Note:** *Next time, I'll make it so I don't have to ever update it again and it would have forever up to date info. hehe*
+- [My Personal Website](https://thebestmotherfucking.website/) - **Note:** *Next time, would be a nice idea to make it so I don't have to ever update it again and it would have forever up to date info. hehe*
 - Ubuntu Oracular Oriole - ***startup sounds <3***
+- **7 years of** pain and agon... I mean **experience!**
 
  <b><i>~ Code smart not hard.</b></i>
-
 <br>
 
 **Some stuff I use:** 
 
 <img src="http://daikoje.borec.cz/python.png" width="48"/> <img src="http://daikoje.borec.cz/javascript.png" width="48"/> <img src="http://daikoje.borec.cz/kotlin.png" width="48"/> <img src="http://daikoje.borec.cz/html.png" width="48"/> <img src="http://daikoje.borec.cz/css.png" width="48"/>
+
 <img src="http://daikoje.borec.cz/tailwind.png" width="48"/> <img src="http://daikoje.borec.cz/flask.png" width="48"/> <img src="http://daikoje.borec.cz/jquery.png" width="48"/> <img src="http://daikoje.borec.cz/socketio.png" width="48"/> <img src="http://daikoje.borec.cz/sqlite.png" width="48"/>
 
 *These icons are still nice even after years, aren't they?*
