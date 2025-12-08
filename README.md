@@ -9,7 +9,7 @@
 - Ubuntu Oracular Oriole - ***startup sounds <3***
 - **7 years of** pain and agon... I mean **experience!**
 
- <b><i>~ Code smart not hard.</b></i>
+ <b><i>~ 𝐃𝐨 𝐥𝐞𝐬𝐬, 𝐂𝐫𝐞𝐚𝐭𝐞 𝐦𝐨𝐫𝐞 <</b></i>
 <br>
 
 **Some stuff I use:** 
