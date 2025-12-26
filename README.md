@@ -22,7 +22,7 @@
 
 **Some stuff I use:** 
 
-<img src="http://daikoje.borec.cz/python.png" width="48"/> <img src="http://daikoje.borec.cz/javascript.png" width="48"/> <img src="http://daikoje.borec.cz/java.png" width="48"/> <img src="http://daikoje.borec.cz/html.png" width="48"/>
+<img src="http://daikoje.borec.cz/python.png" width="48"/> <img src="http://daikoje.borec.cz/newjs.png" width="48"/> <img src="http://daikoje.borec.cz/java.png" width="48"/> <img src="http://daikoje.borec.cz/html.png" width="48"/>
  <img src="http://daikoje.borec.cz/css.png" width="48"/>
 <img src="http://daikoje.borec.cz/tailwind.png" width="48"/> <img src="http://daikoje.borec.cz/flask.png" width="48"/> <img src="http://daikoje.borec.cz/jquery.png" width="48"/> <img src="http://daikoje.borec.cz/socketio.png" width="48"/> <img src="http://daikoje.borec.cz/sqlite.png" width="48"/>
 
